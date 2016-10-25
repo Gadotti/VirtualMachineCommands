@@ -1,0 +1,9 @@
+D:\Sistemas\TrabalhoSO\TrabalhoSO\bin\Debug\TrabalhoSO.exe
+D:\Sistemas\TrabalhoSO\TrabalhoSO\bin\Debug\TrabalhoSO.pdb
+D:\Sistemas\TrabalhoSO\TrabalhoSO\bin\Debug\TrabalhoSO.xml
+D:\Sistemas\TrabalhoSO\TrabalhoSO\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistemas\TrabalhoSO\TrabalhoSO\obj\Debug\TrabalhoSO.Resources.resources
+D:\Sistemas\TrabalhoSO\TrabalhoSO\obj\Debug\TrabalhoSO.vbproj.GenerateResource.Cache
+D:\Sistemas\TrabalhoSO\TrabalhoSO\obj\Debug\TrabalhoSO.exe
+D:\Sistemas\TrabalhoSO\TrabalhoSO\obj\Debug\TrabalhoSO.xml
+D:\Sistemas\TrabalhoSO\TrabalhoSO\obj\Debug\TrabalhoSO.pdb

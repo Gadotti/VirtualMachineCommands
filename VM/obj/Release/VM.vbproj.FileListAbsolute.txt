@@ -1,0 +1,10 @@
+D:\Sistemas\TrabalhoSO\VM\bin\Release\VM.exe
+D:\Sistemas\TrabalhoSO\VM\bin\Release\VM.pdb
+D:\Sistemas\TrabalhoSO\VM\bin\Release\VM.xml
+D:\Sistemas\TrabalhoSO\VM\obj\Release\ResolveAssemblyReference.cache
+D:\Sistemas\TrabalhoSO\VM\obj\Release\VM.Resources.resources
+D:\Sistemas\TrabalhoSO\VM\obj\Release\VM.Principal.resources
+D:\Sistemas\TrabalhoSO\VM\obj\Release\VM.vbproj.GenerateResource.Cache
+D:\Sistemas\TrabalhoSO\VM\obj\Release\VM.exe
+D:\Sistemas\TrabalhoSO\VM\obj\Release\VM.xml
+D:\Sistemas\TrabalhoSO\VM\obj\Release\VM.pdb
